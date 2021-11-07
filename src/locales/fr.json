@@ -1,0 +1,110 @@
+{
+	"translation": {
+		"common": {
+			"close": "proche",
+			"cancel": "annuler",
+			"ok": "d'accord"
+		},
+		"modules": {
+			"dashboard": {
+				"dashboard": "tableau de bord"
+			},
+			"settings": {
+				"settings": "les paramètres",
+				"language": "langue",
+				"storage": "espace de rangement",
+				"measurement_plural": "des mesures",
+				"preference_plural": "préférences",
+				"about": "À propos",
+				"change-log": "journal des modifications",
+				"attributions": "attributions",
+				"feedback": "retour d'information",
+				"privacy-policy": "politique de confidentialité",
+				"app-version": "version de l'application",
+				"clear-privacy-settings": "effacer les paramètres de confidentialité",
+				"clear-last-seen-version": "effacer la dernière version vue",
+				"clear-last-seen-version-description": "utilisé pour afficher la carte 'Nouvelle version' sur le tableau de bord"
+			},
+			"item": {
+				"item": "objet",
+				"item_plural": "éléments",
+				"first-aid": "premiers secours",
+				"clothing": "vêtements",
+				"food": "nourriture",
+				"tools": "outils",
+				"materials": "matériaux",
+				"missing-something": "il manque quelque chose ?",
+				"head": "tête",
+				"chest": "poitrine",
+				"jackets": "vestes",
+				"hand": "main",
+				"leg": "jambe",
+				"outer-leg": "jambe extérieure",
+				"feet": "pieds",
+				"shoes": "des chaussures",
+				"accessory": "accessoire",
+				"treatment": "traitement",
+				"preventative": "préventif"
+			},
+			"journal": {
+				"journal-list": "liste de journaux",
+				"no-journals-entries": "pas d'écritures au journal",
+				"journal": "journal",
+				"delete": "effacer",
+				"edit": "éditer",
+				"copy": "copie",
+				"day": "journée",
+				"delete-all-journals": "supprimer toutes les écritures de journal",
+				"delete-journal-entry": "supprimer une écriture au journal",
+				"delete-journal-entry-desc": "Voulez-vous vraiment supprimer l'entrée du jour {{day}} ?",
+				"delete-all-journals-desc": "Voulez-vous vraiment supprimer les {{count}} entrées ?",
+				"change-journal": "changer le journal",
+				"no-selected-items": "aucun élément sélectionné",
+				"show-all-items": "afficher tous les articles",
+				"clear-search": "effacer la recherche",
+				"empty-search-results": "Aucun élément pour le terme \"{{term}}\"",
+				"add items": "ajouter des articles"
+			},
+			"map": {
+				"map": "carte",
+				"location": "emplacement",
+				"mapTypes": "types de carte",
+				"cave_plural": "grottes",
+				"explorer": "explorateur",
+				"spoiler-free": "sans spoiler",
+				"complete": "achevé",
+				"terrain": "terrain",
+				"routes": "itinéraires",
+				"cairn": "cairn",
+				"story": "histoire",
+				"map_plural": "cartes",
+				"region": "carte",
+				"region_plural": "cartes",
+				"transitionZones": "Zones de transitions",
+				"mystery-lake": "Lac Mystère",
+				"coastal-highway": "Autoroute Côtière",
+				"pleasant-valley": "Vallée Charmante",
+				"desolation-point": "Site de Désolation",
+				"timberwolf-mountain": "Mont Timberwolf",
+				"forlorn-muskeg": "Muskeg Morne",
+				"broken-railroad": "Voie Férrée Détruite",
+				"mountain-town": "Milton",
+				"hushed-river": "Vallée de la Rivière Calme",
+				"bleak-inlet": "Crique Lugubre",
+				"ash-canyon": "Canyon des Cendres",
+				"blackrock": "Blackrock",
+				"ravine": "Ravine",
+				"winding-river": "Rivière Sinueuse",
+				"world": "monde"
+			},
+			"trophies": {
+				"trophy_plural": "trophées",
+				"standard": "la norme",
+				"custom": "douane",
+				"hidden": "défi",
+				"feat": "exploit",
+				"challenge": "défi"
+			}
+		}
+	}
+}

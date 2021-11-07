@@ -1,0 +1,1130 @@
+{
+	"translation": {
+		"common": {
+			"close": "close",
+			"cancel": "cancel",
+			"ok": "OK"
+		},
+		"modules": {
+			"dashboard": {
+				"dashboard": "dashboard"
+			},
+			"settings": {
+				"settings": "settings",
+				"storage": "storage",
+				"language": "language",
+				"measurement_plural": "measurements",
+				"preference_plural": "preferences",
+				"about": "about",
+				"change-log": "change log",
+				"attributions": "attributions",
+				"feedback": "feedback",
+				"privacy-policy": "privacy policy",
+				"app-version": "app version",
+				"clear-privacy-settings": "clear privacy settings",
+				"clear-last-seen-version": "clear last seen version",
+				"clear-last-seen-version-description": "used to show the 'New Version' card on the dashboard"
+			},
+			"item": {
+				"item": "item",
+				"item_plural": "items",
+				"first-aid": "first aid",
+				"clothing": "clothing",
+				"food": "food",
+				"tools": "tools",
+				"materials": "materials",
+				"missing-something": "missing something?",
+				"head": "head",
+				"chest": "chest",
+				"jackets": "jackets",
+				"hand": "hand",
+				"leg": "leg",
+				"outer-leg": "outer leg",
+				"feet": "feet",
+				"shoes": "shoes",
+				"accessory": "accessory",
+				"treatment": "treatment",
+				"preventative": "preventative",
+				"treats": "treats",
+				"infection": "infection",
+				"dysentery": "dysentery",
+				"data": {
+					"first-aid": {
+						"antiseptic": {
+							"desc": "Antiseptic",
+							"effect": "Reduces the risk of infection from an animal attack by 40%"
+						},
+						"bandage-prevent": {
+							"desc": "Bandage",
+							"effect": "Reduces the risk of infection from an animal attack by 25%"
+						},
+						"old-man-s-beard-wound-dressing": {
+							"desc": "Old man's beard wound dressing",
+							"effect": "Reduces the risk of infection from an animal attack by 40%"
+						},
+						"water-purification-tablets": {
+							"desc": "Water purification tablets",
+							"effect": "Purifies 1 liter of unsafe water, allowing the player to drink without risk of dysentery"
+						},
+						"antibiotics": {
+							"desc": "Antibiotics",
+							"treats": "Dysentery,  Food poisoning,  Infection,  Intestinal parasites"
+						},
+						"bandage-treatment": {
+							"desc": "Bandage",
+							"treats": "Blood loss, Broken ribs,   Burns,  Sprained ankle,   Sprained wrist"
+						},
+						"birch-bark-tea": {
+							"desc": "Birch bark tea",
+							"treats": "Restore 5% condition over 2 hours"
+						},
+						"painkillers": {
+							"desc": "Painkillers",
+							"treats": "Broken ribs,  Burns,  Pain"
+						},
+						"reishi-tea": {
+							"desc": "Reishi tea",
+							"treats": "Dysentery,  Food poisoning,  Infection,  Intestinal parasites"
+						},
+						"rose-hip-tea": {
+							"desc": "Rose hip tea",
+							"treats": "Broken ribs,  Burns,  Pain"
+						},
+						"emergency-stim": {
+							"desc": "Emergency stim",
+							"treats": "Sprained ankle, Restore condition (15),  Give unlimited stamina for a limited time (before total depletion)"
+						}
+					},
+					"clothing": {
+						"astrid-s-toque": {
+							"desc": "Astrid's toque"
+						},
+						"balaclava-1": {
+							"desc": "Balaclava"
+						},
+						"baseball-cap": {
+							"desc": "Baseball cap"
+						},
+						"cotton-scarf": {
+							"desc": "Cotton scarf"
+						},
+						"cotton-toque": {
+							"desc": "Cotton toque"
+						},
+						"fleece-cowl": {
+							"desc": "Fleece cowl"
+						},
+						"improvised-head-wrap": {
+							"desc": "Improvised head wrap"
+						},
+						"long-wool-scarf": {
+							"desc": "Long wool scarf"
+						},
+						"mackenzie-s-toque": {
+							"desc": "Mackenzie's Toque"
+						},
+						"rabbitskin-hat-2": {
+							"desc": "Rabbitskin hat"
+						},
+						"wool-scarf": {
+							"desc": "Wool scarf"
+						},
+						"wool-toque": {
+							"desc": "Wool toque"
+						},
+						"astrid-s-gloves": {
+							"desc": "Astrid's gloves"
+						},
+						"driving-gloves": {
+							"desc": "Driving gloves"
+						},
+						"improvised-hand-wraps": {
+							"desc": "Improvised hand wraps"
+						},
+						"fleece-mittens": {
+							"desc": "Fleece mittens"
+						},
+						"gauntlets": {
+							"desc": "Gauntlets"
+						},
+						"rabbitskin-mitts": {
+							"desc": "Rabbitskin mitts"
+						},
+						"ski-gloves": {
+							"desc": "Ski gloves"
+						},
+						"wool-mittens": {
+							"desc": "Wool mittens"
+						},
+						"work-gloves": {
+							"desc": "Work gloves"
+						},
+						"astrid-s-sweater": {
+							"desc": "Astrid's sweater"
+						},
+						"cowichan-sweater": {
+							"desc": "Cowichan sweater"
+						},
+						"dress-shirt": {
+							"desc": "Dress shirt"
+						},
+						"fisherman-s-sweater": {
+							"desc": "Fisherman's sweater"
+						},
+						"hoodie": {
+							"desc": "Hoodie"
+						},
+						"mackenzie-s-shirt": {
+							"desc": "Mackenzie's Shirt"
+						},
+						"mackenzie-s-sweater": {
+							"desc": "Mackenzie's Sweater"
+						},
+						"plaid-shirt": {
+							"desc": "Plaid shirt"
+						},
+						"sweatshirt": {
+							"desc": "Sweatshirt"
+						},
+						"thick-wool-sweater": {
+							"desc": "Thick wool sweater"
+						},
+						"thin-wool-sweater": {
+							"desc": "Thin wool sweater"
+						},
+						"t-shirt": {
+							"desc": "T-Shirt"
+						},
+						"wool-shirt": {
+							"desc": "Wool shirt"
+						},
+						"astrid-s-jacket": {
+							"desc": "Astrid's jacket"
+						},
+						"bearskin-coat": {
+							"desc": "Bearskin coat"
+						},
+						"down-vest-1": {
+							"desc": "Down vest"
+						},
+						"expedition-parka": {
+							"desc": "Expedition parka"
+						},
+						"light-shell": {
+							"desc": "Light shell"
+						},
+						"mackenzie-s-parka": {
+							"desc": "Mackenzie's Parka"
+						},
+						"mackinaw-jacket": {
+							"desc": "Mackinaw jacket"
+						},
+						"mariner-s-pea-coat": {
+							"desc": "Mariner's pea coat"
+						},
+						"military-coat": {
+							"desc": "Military coat"
+						},
+						"moose-hide-cloak": {
+							"desc": "Moose-hide cloak"
+						},
+						"old-fashioned-parka": {
+							"desc": "Old fashioned parka"
+						},
+						"simple-parka": {
+							"desc": "Simple parka"
+						},
+						"ski-jacket": {
+							"desc": "Ski jacket"
+						},
+						"sport-vest-1": {
+							"desc": "Sport vest"
+						},
+						"urban-parka": {
+							"desc": "Urban parka"
+						},
+						"windbreaker": {
+							"desc": "Windbreaker"
+						},
+						"wolfskin-coat": {
+							"desc": "Wolfskin coat"
+						},
+						"thermal-underwear": {
+							"desc": "Thermal underwear"
+						},
+						"wool-longjohns": {
+							"desc": "Wool longjohns"
+						},
+						"astrid-s-jeans": {
+							"desc": "Astrid's jeans"
+						},
+						"cargo-pants": {
+							"desc": "Cargo pants"
+						},
+						"combat-pants": {
+							"desc": "Combat pants"
+						},
+						"deerskin-pants": {
+							"desc": "Deerskin pants"
+						},
+						"jeans": {
+							"desc": "Jeans"
+						},
+						"mackenzie-s-pants": {
+							"desc": "Mackenzie's Pants"
+						},
+						"snow-pants": {
+							"desc": "Snow pants"
+						},
+						"work-pants": {
+							"desc": "Work pants"
+						},
+						"climbing-socks": {
+							"desc": "Climbing socks"
+						},
+						"sports-socks": {
+							"desc": "Sports socks"
+						},
+						"wool-socks": {
+							"desc": "Wool socks"
+						},
+						"astrid-s-boots": {
+							"desc": "Astrid's boots"
+						},
+						"combat-boots": {
+							"desc": "Combat boots"
+						},
+						"deerskin-boots": {
+							"desc": "Deerskin boots"
+						},
+						"insulated-boots": {
+							"desc": "Insulated boots"
+						},
+						"leather-shoes": {
+							"desc": "Leather shoes"
+						},
+						"mackenzie-s-boots": {
+							"desc": "Mackenzie's Boots"
+						},
+						"mountaineering-boots": {
+							"desc": "Mountaineering boots"
+						},
+						"mukluks": {
+							"desc": "Mukluks"
+						},
+						"running-shoes": {
+							"desc": "Running shoes"
+						},
+						"ski-boots": {
+							"desc": "Ski boots"
+						},
+						"trail-boots": {
+							"desc": "Trail boots"
+						},
+						"work-boots": {
+							"desc": "Work boots"
+						},
+						"crampons": {
+							"desc": "Crampons"
+						},
+						"moose-hide-satchel": {
+							"desc": "Moose-hide satchel"
+						},
+						"wool-ear-wrap": {
+							"desc": "Wool ear wrap"
+						}
+					},
+					"food": {
+						"airline-food-chicken": {
+							"desc": "Airline Food - Chicken"
+						},
+						"airline-food-vegetarian": {
+							"desc": "Airline Food - Vegetarian"
+						},
+						"beef-jerky": {
+							"desc": "Beef jerky"
+						},
+						"birch-bark-tea": {
+							"desc": "Birch bark tea"
+						},
+						"bear-meat-cooked": {
+							"desc": "Bear meat (cooked)"
+						},
+						"bear-meat-raw": {
+							"desc": "Bear meat (raw)"
+						},
+						"candy-bar": {
+							"desc": "Candy bar"
+						},
+						"cat-tail-stalk": {
+							"desc": "Cat tail stalk"
+						},
+						"coho-salmon-cooked": {
+							"desc": "Coho salmon (cooked)"
+						},
+						"coho-salmon-raw": {
+							"desc": "Coho salmon (raw)"
+						},
+						"condensed-milk": {
+							"desc": "Condensed milk"
+						},
+						"cup-of-coffee": {
+							"desc": "Cup of coffee"
+						},
+						"cup-of-herbal-tea": {
+							"desc": "Cup of herbal tea"
+						},
+						"dog-food": {
+							"desc": "Dog food"
+						},
+						"energy-bar": {
+							"desc": "Energy bar"
+						},
+						"granola-bar": {
+							"desc": "Granola bar"
+						},
+						"ketchup-chips": {
+							"desc": "Ketchup chips"
+						},
+						"lake-whitefish-cooked": {
+							"desc": "Lake whitefish (cooked)"
+						},
+						"lake-whitefish-raw": {
+							"desc": "Lake whitefish (raw)"
+						},
+						"maple-syrup": {
+							"desc": "Maple syrup"
+						},
+						"military-grade-mre": {
+							"desc": "Military-Grade MRE"
+						},
+						"moose-meat-cooked": {
+							"desc": "Moose meat (cooked)"
+						},
+						"moose-meat-raw": {
+							"desc": "Moose meat (raw)"
+						},
+						"orange-soda": {
+							"desc": "Orange soda"
+						},
+						"go-energy-drink": {
+							"desc": "GO! Energy drink"
+						},
+						"peanut-butter": {
+							"desc": "Peanut butter"
+						},
+						"pinnacle-peaches": {
+							"desc": "Pinnacle peaches"
+						},
+						"pork-and-beans": {
+							"desc": "Pork and beans"
+						},
+						"rabbit-meat-cooked": {
+							"desc": "Rabbit meat (cooked)"
+						},
+						"rabbit-meat-raw": {
+							"desc": "Rabbit meat (raw)"
+						},
+						"rainbow-trout-cooked": {
+							"desc": "Rainbow trout (cooked)"
+						},
+						"rainbow-trout-raw": {
+							"desc": "Rainbow trout (raw)"
+						},
+						"reishi-tea": {
+							"desc": "Reishi tea"
+						},
+						"rose-hip-tea": {
+							"desc": "Rose hip tea"
+						},
+						"salty-crackers": {
+							"desc": "Salty crackers"
+						},
+						"smallmouth-bass-cooked": {
+							"desc": "Smallmouth bass (cooked)"
+						},
+						"smallmouth-bass-raw": {
+							"desc": "Smallmouth bass (raw)"
+						},
+						"stacy-s-grape-soda": {
+							"desc": "Stacy's grape soda"
+						},
+						"summit-soda": {
+							"desc": "Summit soda"
+						},
+						"tin-of-sardines": {
+							"desc": "Tin of sardines"
+						},
+						"tomato-soup": {
+							"desc": "Tomato soup"
+						},
+						"venison-cooked": {
+							"desc": "Venison (cooked)"
+						},
+						"venison-raw": {
+							"desc": "Venison (raw)"
+						},
+						"wolf-meat-cooked": {
+							"desc": "Wolf meat (cooked)"
+						},
+						"wolf-meat-raw": {
+							"desc": "Wolf meat (raw)"
+						},
+						"water-potable": {
+							"desc": "Water (potable)"
+						},
+						"water-unsafe": {
+							"desc": "Water (unsafe)"
+						}
+					},
+					"tools": {
+						"cooking-pot": {
+							"desc": "Cooking pot",
+							"comment": "Reduces the amount of time required to cook any food or drink on a fire. Allows the player to melt snow and boil water on a fire."
+						},
+						"recycled-can": {
+							"desc": "Recycled can",
+							"comment": "Allows the player to melt snow and boil water on a fire."
+						},
+						"flare": {
+							"desc": "Flare",
+							"comment": "Can keep Wolf at bay. Lasts longer than the Marine flare."
+						},
+						"flashlight": {
+							"desc": "Flashlight",
+							"comment": "Can keep predators at bay during Aurora. Usable only during Aurora."
+						},
+						"marine-flare": {
+							"desc": "Marine flare",
+							"comment": "Can keep Wolf and Timberwolf at bay. Lasts shorter than the regular Flare."
+						},
+						"storm-lantern": {
+							"desc": "Storm lantern",
+							"comment": "You can refuel it with lantern fuel or kerosene. Can hold up to 1L of fuel"
+						},
+						"torch": {
+							"desc": "Torch",
+							"comment": "Can keep Wolf at bay. Can be obtained with a lit fire."
+						},
+						"accelerant": {
+							"desc": "Accelerant",
+							"comment": "Greatly increases the chance of starting fires"
+						},
+						"cardboard-matches": {
+							"desc": "Cardboard Matches",
+							"comment": "More common than wood matches Can be used as a light source"
+						},
+						"firestriker": {
+							"desc": "Firestriker",
+							"comment": "Most effective fire starter Cannot be repaired and is very rare"
+						},
+						"jerry-can": {
+							"desc": "Jerry Can",
+							"comment": "0.30L can be used as accelerant Can hold up to 4L of fuel Collects fuel from scrapped lanterns"
+						},
+						"lantern-fuel": {
+							"desc": "Lantern Fuel",
+							"comment": "Can be used to fuel lanterns Can hold up to 0.5L of fuel Can be obtained from cooking fish"
+						},
+						"magnifying-lens": {
+							"desc": "Magnifying Lens",
+							"comment": "Doesn't lose condition when used Can only be used outside in clear weather"
+						},
+						"wood-matches": {
+							"desc": "Wood Matches",
+							"comment": "Increases chance of starting fires Can be used as a light source"
+						},
+						"fishing-tackle": {
+							"desc": "Fishing Tackle",
+							"comment": "Required for fishing Can be used to repairing"
+						},
+						"hook": {
+							"desc": "Hook",
+							"comment": "Required to craft Fishing Tackle Crafted using 1 Scrap Metal"
+						},
+						"line": {
+							"desc": "Line",
+							"comment": "Required to craft Fishing Tackle Crafted using 1 Cured Gut"
+						},
+						"hatchet": {
+							"desc": "Hatchet",
+							"comment": "Used to break down furniture and tree limbs Can be used in a wolf struggle Can be used to harvest and craft"
+						},
+						"improvised-hatchet": {
+							"desc": "Improvised Hatchet",
+							"comment": "Crafted in the forge Works slower than manufactured Hatchets"
+						},
+						"hunting-knife": {
+							"desc": "Hunting Knife",
+							"comment": "Used to break down cloth and cardboard items/tools Can be used in a wolf struggle Can be used to harvest and craft"
+						},
+						"improvised-knife": {
+							"desc": "Improvised Knife",
+							"comment": "Crafted in the forge Slower than manufactured knives"
+						},
+						"hacksaw": {
+							"desc": "Hacksaw",
+							"comment": "Used to break down metal furniture Can break down tree limbs and harvest saplings"
+						},
+						"heavy-hammer": {
+							"desc": "Heavy Hammer",
+							"comment": "Used to craft tools in a forge Can be used to break down furniture"
+						},
+						"prybar": {
+							"desc": "Prybar",
+							"comment": "Used to open locked doors and cars Cannot be repaired"
+						},
+						"can-opener": {
+							"desc": "Can Opener",
+							"comment": "Used to open cans without loss Repaired with scrap metal"
+						},
+						"distress-pistol": {
+							"desc": "Distress Pistol",
+							"comment": "Rarest firearm in the game Offers the best bleed out time of all weapons Shots can scare off bears and wolves"
+						},
+						"flare-shell": {
+							"desc": "Flare Shell",
+							"comment": "Used in the Distress Pistol Very rare and difficult to find"
+						},
+						"hunting-rifle": {
+							"desc": "Hunting Rifle",
+							"comment": "Most powerful firearm in the game Very slow and can only be fired while aiming"
+						},
+						"rifle-round": {
+							"desc": "Rifle Round",
+							"comment": "Can be crafted at an Ammunition Workbench Used in the Hunting Rifle"
+						},
+						"revolver": {
+							"desc": "Revolver",
+							"comment": "Holds fewer rounds than the Hunting Rifle Fastest firearm in the game"
+						},
+						"revolver-ammuntion": {
+							"desc": "Revolver Ammuntion",
+							"comment": "Can be crafted at an Ammunition Workbench More common than most ammunition Used in the Revolver"
+						},
+						"survival-bow": {
+							"desc": "Survival Bow",
+							"comment": "The only ranged weapon that can be crafted Ammunition is reusable"
+						},
+						"simple-arrow": {
+							"desc": "Simple Arrow",
+							"comment": "Can be crafted at a workbench Breaks after many shots Can ricochet off of hard surfaces"
+						},
+						"snare": {
+							"desc": "Snare",
+							"comment": "Crafted at a workbench with 1 cured gut and 1 reclaimed wood Used to catch rabbits over time Breaks after multiple uses"
+						},
+						"stone": {
+							"desc": "Stone",
+							"comment": "Most common ranged weapon Used to stun rabbits Can be used to build rock caches"
+						},
+						"sewing-kit": {
+							"desc": "Sewing kit",
+							"comment": "Allows players to repair damaged clothing or craft new clothing with the appropriate materials."
+						},
+						"fishing-tackle-repair": {
+							"desc": "Fishing tackle",
+							"comment": "Allows players to repair damaged clothing or craft new clothing with the appropriate materials."
+						},
+						"firearm-cleaning-kit": {
+							"desc": "Firearm cleaning kit",
+							"comment": "Allows players to repair damaged hunting rifle and revolver."
+						},
+						"whetstone": {
+							"desc": "Whetstone",
+							"comment": "Allows players to repair damaged bladed tools."
+						},
+						"simple-tools": {
+							"desc": "Simple tools",
+							"comment": "Allows players to repair a variety of damaged tools."
+						},
+						"quality-tools": {
+							"desc": "Quality tools",
+							"comment": "Allows players to repair a variety of damaged tools."
+						},
+						"bedroll": {
+							"desc": "Bedroll",
+							"comment": "Allows players to sleep."
+						},
+						"bear-skin-bedroll": {
+							"desc": "Bear skin bedroll",
+							"comment": "Allows players to sleep. Can keep Wolf at bay."
+						},
+						"mountaineering-rope": {
+							"desc": "Mountaineering rope",
+							"comment": "Allows players to rope climb in designated areas."
+						},
+						"spray-paint": {
+							"desc": "Spray Paint",
+							"comment": "Allows players to tag environments."
+						},
+						"charcoal": {
+							"desc": "Charcoal",
+							"comment": "Allows players to map regions Collected from burned out fires"
+						}
+					},
+					"materials": {
+						"arrow-shaft": {
+							"desc": "Arrow Shaft"
+						},
+						"arrowhead": {
+							"desc": "Arrowhead"
+						},
+						"birch-sapling": {
+							"desc": "Birch Sapling"
+						},
+						"black-bear-hide": {
+							"desc": "Black Bear Hide"
+						},
+						"bullet": {
+							"desc": "Bullet"
+						},
+						"can-of-gunpowder": {
+							"desc": "Can of Gunpowder"
+						},
+						"car-battery": {
+							"desc": "Car Battery"
+						},
+						"cedar-firewood": {
+							"desc": "Cedar Firewood"
+						},
+						"cloth": {
+							"desc": "Cloth"
+						},
+						"crow-feather": {
+							"desc": "Crow Feather"
+						},
+						"deer-hide": {
+							"desc": "Deer Hide"
+						},
+						"dusting-sulfur": {
+							"desc": "Dusting Sulfer"
+						},
+						"fir-firewood": {
+							"desc": "Fir Firewood"
+						},
+						"gut": {
+							"desc": "Gut"
+						},
+						"leather": {
+							"desc": "Leather"
+						},
+						"maple sapling": {
+							"desc": "Maple Sapling"
+						},
+						"moose-hide": {
+							"desc": "Moose Hide"
+						},
+						"old-mans-beard-lichen": {
+							"desc": "Old Man's beard lichen"
+						},
+						"rabbit-pelt": {
+							"desc": "Rabbit Pelt"
+						},
+						"reclaimed-wood": {
+							"desc": "Reclaimed Wood"
+						},
+						"reishi-mushroom": {
+							"desc": "Reishi Mushroom"
+						},
+						"revolver-shell-casing": {
+							"desc": "Revolver Shell Casing"
+						},
+						"rifle-shell-casing": {
+							"desc": "Rifle Shell Casing"
+						},
+						"rosehip": {
+							"desc": "Rose hip"
+						},
+						"scrap-lead": {
+							"desc": "Scrap Lead"
+						},
+						"scrap metal": {
+							"desc": "Scrap Metal"
+						},
+						"stick": {
+							"desc": "Stick"
+						},
+						"stump-remover": {
+							"desc": "Stump Remover"
+						},
+						"wolf-pelt": {
+							"desc": "Wolf Pelt"
+						}
+					}
+				}
+			},
+			"journal": {
+				"journal-list": "journal list",
+				"no-journals-entries": "no journal entries",
+				"delete-all-journals": "Delete All Journal Entries",
+				"delete-journal-entry": "delete journal entry",
+				"delete-journal-entry-desc": "Are you sure you want to \nDelete Day {{day}} entry?",
+				"delete-all-journals-desc": "Are you sure you want to \ndelete all {{count}} entires?",
+				"journal": "journal",
+				"delete": "delete",
+				"edit": "edit",
+				"copy": "copy",
+				"day": "day",
+				"change-journal": "change journal",
+				"no-selected-items": "no selected items",
+				"show-all-items": "show all items",
+				"clear-search": "clear search",
+				"empty-search-results": "No items for term \"{{term}}\"",
+				"add items": "add items"
+			},
+			"map": {
+				"map": "map",
+				"location": "location",
+				"cave_plural": "caves",
+				"mapTypes": "map types",
+				"map_plural": "maps",
+				"region": "region",
+				"region_plural": "regions",
+				"transitionZones": "transition zones",
+				"explorer": "explorer",
+				"spoiler-free": "spoiler free",
+				"complete": "complete",
+				"terrain": "terrain",
+				"routes": "routes",
+				"cairn": "cairn",
+				"story": "story",
+				"mystery-lake": "Mystery Lake",
+				"coastal-highway": "Coastal Highway",
+				"pleasant-valley": "Pleasant Valley",
+				"desolation-point": "Desolation Point",
+				"timberwolf-mountain": "Timberwolf Mountain",
+				"forlorn-muskeg": "Forlorn Muskeg",
+				"broken-railroad": "Broken Railroad",
+				"mountain-town": "Mountain Town",
+				"hushed-river": "Hushed River Valley",
+				"bleak-inlet": "Bleak Inlet",
+				"ash-canyon": "Ash Canyon",
+				"blackrock": "Blackrock",
+				"ravine": "Ravine",
+				"winding-river": "Winding River",
+				"world": "world"
+			},
+			"trophies": {
+				"trophy_plural": "trophies",
+				"standard": "standard",
+				"custom": "custom",
+				"hidden": "hidden",
+				"feat": "feat",
+				"challenge": "challenge",
+				"trophies": {
+					"challenge": {
+						"hopeless-rescue": {
+							"name": "Hopeless Rescue",
+							"desc": "In this challenge, the player spawns in the Trapper's Homestead in Mystery Lake. Within seven days, they must retrieve the Distress Pistol from the summit of Timberwolf Mountain, then take it to the lighthouse in Desolation Point and fire it from the top of the lighthouse."
+						},
+						"the-hunted-part-one": {
+							"name": "The Hunted, Part One",
+							"desc": "In this challenge, the player is immediately attacked by the Old Bear, with no way to prevent it. The player must then recover and escape to the Trapper's Homestead to retrieve the Hunting Rifle there. The Old Bear will periodically chase the player when they enter an outdoor location."
+						},
+						"the-hunted-part-two": {
+							"name": "The Hunted, Part Two",
+							"desc": "This challenge may only be accessed after completing 'The Hunted, Part One.' The player spawns in the Trapper's Homestead with a Hunting Rifle, and must chase the old bear across Mystery Lake to his den."
+						},
+						"whiteout": {
+							"name": "Whiteout",
+							"desc": "In this challenge, the player starts at the Quonset Gas Station in Coastal Highway, which has been mostly stripped of any items. They must stockpile a large number of varied supplies within the gas station before a large blizzard hits in thirty days."
+						},
+						"nomad": {
+							"name": "Nomad",
+							"desc": "In this challenge, the player starts at the Pleasant Valley Farmstead in Pleasant Valley. The player must spend three days in many different locations."
+						},
+						"archivist": {
+							"name": "Archivist",
+							"desc": "During the aurora, collect Buffer Memories from across Great Bear island at locations listed in your journal."
+						},
+						"as-the-dead-sleep": {
+							"name": "As the Dead Sleep",
+							"desc": "Visit all the grave sites marked on your map. There is no time limit. As your life ebbs, death is the only bearier"
+						},
+						"4DON Twilight Badge (2018)": {
+							"name": "4DON Twilight Badge",
+							"desc": "(2018)"
+						},
+						"4DON Midnight Badge (2018)": {
+							"name": "4DON Midnight Badge",
+							"desc": "(2018)"
+						},
+						"4DON Twilight Badge (2019)": {
+							"name": "4DON Twilight Badge",
+							"desc": "(2019)"
+						},
+						"4DON Midnight Badge (2019)": {
+							"name": "4DON Midnight Badge",
+							"desc": "(2019)"
+						},
+						"Winter's Embrace Canadian Feast Badge (2020)": {
+							"name": "Winter's Embrace Canadian Feast Badge",
+							"desc": "(2020)"
+						},
+						"Winter's Embrace Winter in July Badge (2020)": {
+							"name": "Winter's Embrace Winter in July Badge",
+							"desc": "(2020)"
+						},
+						"escape-the-darkwalker": {
+							"name": "Escape the Darkwalker",
+							"desc": "Search for the Green Fires. Learn all you can about the Darkwalker Knowledge will help find a way to defeat the entity"
+						},
+						"Escape the Darkwalker -- Deadly Dreamer Badge": {
+							"name": "Escape the Darkwalker",
+							"desc": "Deadly Dreamer Badge"
+						}
+					},
+					"feat": {
+						"book-smarts": {
+							"name": "Book Smarts",
+							"desc": "Spend 250 hours with Research Books",
+							"perk": "10% more Skill Level when completing a research book"
+						},
+						"cold-fusion": {
+							"name": "Cold Fusion",
+							"desc": "Spend 2400 hours (100 days) outside",
+							"perk": "Permanent boost of +2°C/4°F to core body temperature"
+						},
+						"efficient-machine": {
+							"name": "Efficient Machine",
+							"desc": "Survive for 500 days",
+							"perk": "All actions take 10% FEWER calories"
+						},
+						"fire-master": {
+							"name": "Fire Master",
+							"desc": "Start 1000 Fires",
+							"perk": "Skill Levels for Fire Starting start at Level 3"
+						},
+						"free-runner": {
+							"name": "Free Runner",
+							"desc": "Sprint for 50 kilometers/31.1 miles",
+							"perk": "Sprinting takes 25% FEWER calories"
+						},
+						"snow-walker": {
+							"name": "Snow Walker",
+							"desc": "Travel 1000 kilometers/621.4 miles",
+							"perk": "Stamina recharges 20% faster"
+						},
+						"expert-trapper": {
+							"name": "Expert Trapper",
+							"desc": "You've snared 100 rabbits",
+							"perk": "Your snares are 100% more effective"
+						},
+						"straight-to-the-heart": {
+							"name": "Straight to the Heart",
+							"desc": "Use or consume 250 Coffee, Energy Drinks, or Emergency Stims.",
+							"perk": "You now experience the effects of Coffee, Energy Drinks, and Emergency Stim 25% longer"
+						},
+						"blizzard-walker": {
+							"name": "Blizzard Walker",
+							"desc": "You've spent 20 days outdoors during blizzards.",
+							"perk": "Speed reduction for walking into wind reduced by 25%"
+						},
+						"darkwalker": {
+							"name": "Darkwalker",
+							"desc": "You've completed the Escape the Darkwalker Challenge",
+							"perk": "You are less Fatigued at night, but more Fatigued during the day"
+						}
+					},
+					"standard": {
+						"the-first-of-many": {
+							"name": "The First of Many",
+							"desc": "Survive 1 day in a single Survival mode game."
+						},
+						"you-made-it": {
+							"name": "You Made It!",
+							"desc": "Survive 10 days in a single Survival mode game."
+						},
+						"ready-for-when-the-shtf": {
+							"name": "Ready for when the SHTF!",
+							"desc": "Survive 50 days in a single Survival mode game."
+						},
+						"centurion": {
+							"name": "Centurion",
+							"desc": "Survive for 100 days in a single Survival mode game."
+						},
+						"the-will-to-live": {
+							"name": "The Will to Live",
+							"desc": "Survive 500 days in a single Survival Mode game."
+						},
+						"exploration-game": {
+							"name": "Exploration Game",
+							"desc": "Visit every interior location in both Mystery Lake and Coastal Highway (single game)"
+						},
+						"waste-no-want-not": {
+							"name": "Waste No Want Not",
+							"desc": "Harvest 10 Complete Deer Carcasses (single game)"
+						},
+						"night-walker": {
+							"name": "Night Walker",
+							"desc": "Survive an entire Night outside (single game)"
+						},
+						"beneath-a-starry-sky": {
+							"name": "Beneath a Starry Sky",
+							"desc": "Survive 3 consecutive Nights outside (single game)"
+						},
+						"silent-hunter": {
+							"name": "Silent Hunter",
+							"desc": "Survive the first 50 days without firing the Rifle (single game)"
+						},
+						"pacifist": {
+							"name": "Pacifist",
+							"desc": "Survive the first 25 days without killing anything (single game)"
+						},
+						"it-was-this-big": {
+							"name": "It was THIS Big!",
+							"desc": "Catch a fish weighing over 5kg (11 lbs)."
+						},
+						"wrapped-in-furs": {
+							"name": "Wrapped in Furs",
+							"desc": "Sleep in a Bearskin Bedroll while wearing a Wolfskin Coat, Deerskin Boots, and Rabbitskin Mittens."
+						},
+						"living-off-the-land": {
+							"name": "Living Off the Land",
+							"desc": "Survive 25 consecutive full days only consuming calories harvested from wild plants and animals (single game)"
+						},
+						"natural-healer": {
+							"name": "Natural Healer",
+							"desc": "Heal yourself using all types of natural medicines (single game)"
+						},
+						"happy-harvester": {
+							"name": "Happy Harvester",
+							"desc": "Harvest 25 of each kind of plant (single game)"
+						},
+						"stone-age-sniper": {
+							"name": "Stone-Age Sniper",
+							"desc": "Stun a rabbit with a rock from over 25 meters (80 feet) away."
+						},
+						"skilled-survivor": {
+							"name": "Skilled Survivor",
+							"desc": "Get all skills to level 5 in a single Survival Mode game."
+						},
+						"face-the-impossible": {
+							"name": "Face the Impossible",
+							"desc": "Survive one day on Interloper difficulty."
+						},
+						"don-t-starve": {
+							"name": "Don't Starve",
+							"desc": "Keep calorie store above zero for 10 days."
+						},
+						"faithful-cartographer": {
+							"name": "Faithful Cartographer",
+							"desc": "Map all named locations in Survival Mode."
+						},
+						"resolute-outfitter": {
+							"name": "Resolute Outfitter",
+							"desc": "Fill all clothing slots with 100% condition gear."
+						},
+						"penitent-scholar": {
+							"name": "Penitent Scholar",
+							"desc": "Complete all Research books."
+						},
+						"timberwolf-mountain": {
+							"name": "Timberwolf Mountain",
+							"desc": "Climb to the top of Timberwolf Mountain."
+						},
+						"desolation-point": {
+							"name": "Desolation Point",
+							"desc": "Craft a full set of improvised Tools."
+						},
+						"deep-forest": {
+							"name": "Deep Forest",
+							"desc": "Keep a campfire burning for 3 days."
+						},
+						"challenge-mastery": {
+							"name": "Challenge Mastery",
+							"desc": "Complete every Challenge."
+						}
+					},
+					"hidden": {
+						"your-journey-begins": {
+							"name": "Your Journey Begins",
+							"desc": "Escape the ravine after your crash."
+						},
+						"paradise-lost": {
+							"name": "Paradise Lost",
+							"desc": "Make your way to Milton."
+						},
+						"the-long-winter": {
+							"name": "The Long Winter",
+							"desc": "Prepare Grey Mother for Winter."
+						},
+						"losing-a-child-is-like": {
+							"name": "Losing a Child is Like...",
+							"desc": "Complete Lily's Story."
+						},
+						"leaving-the-old-world-behind": {
+							"name": "Leaving the Old World Behind",
+							"desc": "Leave Milton. Complete Episode One."
+						},
+						"the-old-trapper": {
+							"name": "The Old Trapper",
+							"desc": "Bring Jeremiah back from near death."
+						},
+						"lights-in-the-sky": {
+							"name": "Lights in the Sky",
+							"desc": "Survive the first Aurora event."
+						},
+						"graduation-day": {
+							"name": "Graduation Day",
+							"desc": "Complete Jeremiah's Survival School."
+						},
+						"freight-train-of-hate-hunger": {
+							"name": "Freight-Train of Hate & Hunger",
+							"desc": "Kill the Old Bear."
+						},
+						"you-ll-be-with-her-soon": {
+							"name": "You'll Be With Her Soon",
+							"desc": "Leave Mystery Lake. Complete Episode Two."
+						},
+						"too-big-to-fail": {
+							"name": "Too Big to Fail",
+							"desc": "Open all Safety Deposit boxes in Milton."
+						},
+						"sounds-like-some-kind-of-indie-band": {
+							"name": "Sounds Like Some Kind of Indie Band",
+							"desc": "Find all Forest Talker caches."
+						},
+						"cache-mastery": {
+							"name": "Cache Mastery",
+							"desc": "Find all hidden caches in Episode One and Episode Two."
+						},
+						"community-service": {
+							"name": "Community Service",
+							"desc": "Get to Thomson's Crossing."
+						},
+						"there-will-be-blood": {
+							"name": "There Will Be Blood",
+							"desc": "Defeat your first Timberwolf pack."
+						},
+						"save-our-souls": {
+							"name": "Save Our Souls",
+							"desc": "Enter the Crash Site."
+						},
+						"hippocratic-oath": {
+							"name": "Hippocratic Oath",
+							"desc": "Rescue all three lost Survivors and stock the Hall with supplies."
+						},
+						"he-lives": {
+							"name": "He Lives",
+							"desc": "Intercept the Radio transmission."
+						},
+						"the-crossroads-elegy": {
+							"name": "The Crossroads Elegy",
+							"desc": "Leave Pleasant Valley behind. Complete Episode Three."
+						},
+						"tall-tales": {
+							"name": "Tall Tales",
+							"desc": "Investigate all of the local mysteries."
+						},
+						"every-last-one": {
+							"name": "Every Last One",
+							"desc": "Find all of the Forest Talker notes."
+						}
+					}
+				}
+			}
+		}
+	}
+}
