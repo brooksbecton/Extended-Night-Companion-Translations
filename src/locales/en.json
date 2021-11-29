@@ -10,6 +10,8 @@
 				"dashboard": "dashboard"
 			},
 			"settings": {
+				"new-version": "new version",
+				"learn-more": "learn more",
 				"settings": "settings",
 				"storage": "storage",
 				"language": "language",
